@@ -1,2 +1,2 @@
 # quick_project
-Here is the code of quick project.
+https://shaylasharmin123.github.io/quick_project/
